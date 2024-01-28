@@ -34,7 +34,6 @@ int main()
 
   double arr[row][column];
   double arrcal[row][column];
-  double temp;
 
   //input number
   for(int i = 0; i < row ; i++){
