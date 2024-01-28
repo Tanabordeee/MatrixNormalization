@@ -34,19 +34,20 @@ This C program is designed to handle a 2D array, allowing users to input values,
 
 ## Example
 
-```bash
-Column = 3
-Row = 2
-input number = 1
-input number = 2
-input number = 3
-input number = 4
-input number = 5
-input number = 6
-0.0000 0.2000 0.4000 
-0.6000 0.8000 1.0000
+   ```bash
+   Column = 3
+   Row = 2
+   input number = 1
+   input number = 2
+   input number = 3
+   input number = 4
+   input number = 5
+   input number = 6
+   0.0000 0.2000 0.4000 
+   0.6000 0.8000 1.0000
 
-## License
+
+## Example
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
