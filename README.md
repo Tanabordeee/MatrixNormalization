@@ -20,7 +20,7 @@ This C program is designed to handle a 2D array, allowing users to input values,
    gcc your_program_name.c -o MatrixNormalization
 
 2. Run the executable:
-  
+
   ```bash
   ./MatrixNormalization
   
@@ -44,7 +44,7 @@ input number = 4
 input number = 5
 input number = 6
 0.0000 0.2000 0.4000 
-0.6000 0.8000 1.0000
+0.6000 0.8000 1.0000 
 
 ## License
 
