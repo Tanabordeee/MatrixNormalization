@@ -21,8 +21,8 @@ This C program is designed to handle a 2D array, allowing users to input values,
 
 2. Run the executable:
 
-  ```bash
-  ./MatrixNormalization
+   ```bash
+   ./MatrixNormalization
   
 3. Follow the prompts to input the number of columns and rows, as well as the individual array values.
 
