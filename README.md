@@ -34,7 +34,6 @@ This C program is designed to handle a 2D array, allowing users to input values,
 
 ## Example
 
-
 ```bash
 Column = 3
 Row = 2
